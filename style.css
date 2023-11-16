@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.question {
+  margin-bottom: 20px;
+}
+
+.options {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.submit-button {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.submit-button:hover {
+  background-color: #45a049;
+}
+
+
+body {
+  position: relative;
+}
+
+.VK {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 20px;
+  padding: 10px;
+  background: linear-gradient(to right, #ff9966, #ff5e62);
+  color: white;
+  border-radius: 5px;
+}
+
+.conditions {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 40px 20px;
+  color: #333;
+}
